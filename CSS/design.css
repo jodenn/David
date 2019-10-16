@@ -1,0 +1,50 @@
+html {
+    height: 100%;
+}
+
+body{
+    background-color: indianred;
+    height: 100%;
+    margin: 0;
+    margin-top: 0;
+}
+#balk {
+    background-color: white;
+    width: 80%;
+    height: 15%;
+}
+#container {
+    background-color: yellow;
+    width: 80%;
+    height: 75%;
+    display: flex;
+}
+
+#container1 {
+    background-color: blue;
+    width: 20%;
+    height: 100%;
+
+}
+
+#container2 {
+    background-color: lightgreen;
+    width: 60%;
+    height: 100%;
+
+}
+
+#container3 {
+    background-color: blue;
+    width: 20%;
+    height: 100%;
+
+}
+
+.boodschap {
+    background-color: white;
+    border: 12px solid black;
+    border-radius: 20px;
+    width: 80%
+
+}
